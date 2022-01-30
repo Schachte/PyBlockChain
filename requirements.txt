@@ -1,0 +1,8 @@
+Flask
+attrdict
+eventlet
+python-socketio
+numpy
+Pillow
+scipy
+h5py==2.6.0
